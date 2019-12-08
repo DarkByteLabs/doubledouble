@@ -3,7 +3,7 @@ package doubledouble_test
 import (
 	"testing"
 
-	"github.com/DarkByteLabs/doubledouble/v0"
+	"github.com/DarkByteLabs/doubledouble"
 )
 
 func BenchmarkAdd(b *testing.B) {
